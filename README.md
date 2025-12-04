@@ -1,6 +1,6 @@
 ## Hi there 👋
-📚 I’m student \n
-🌱 currently learning web dev
+I'm student 🎓<br>
+currently learning web dev 💻
 
 <!--
 **PAWANBHOWATE04/PAWANBHOWATE04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
