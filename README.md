@@ -1,5 +1,5 @@
 ## Hi there 👋
-📚 I’m student
+📚 I’m student \n
 🌱 currently learning web dev
 
 <!--
