@@ -15,9 +15,7 @@
 <h2 align="left">About me</h2>
 
 ###
- <div align="right"> 
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div> 
+ 
 <p align="left">📚 I'm currently learning web development <br>🎯 Goals: Fullstack Developer</p>
 
 ###
