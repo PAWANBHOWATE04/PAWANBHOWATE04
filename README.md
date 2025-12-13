@@ -1,7 +1,7 @@
 # Hi there 👋
 
 I’m **Pawan**  
-🎓 Student | 🌐 Aspiring Full Stack Developer | in India  
+🎓 Student | 🌐 Aspiring Full Stack Developer | 🇮🇳 India  
 
 ---
 
