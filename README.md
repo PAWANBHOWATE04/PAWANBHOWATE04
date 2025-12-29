@@ -22,7 +22,7 @@ I’m **Pawan**
 
 **🧰Tools & Platforms**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
 </p>
 
 ---
