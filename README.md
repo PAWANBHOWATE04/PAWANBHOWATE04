@@ -32,10 +32,6 @@ I’m **Pawan**
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=PAWANBHOWATE04&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150" alt="stats graph" />
   
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=PAWANBHOWATE04&layout=compact&theme=dracula" height="150" alt="languages graph" />
-  
-  <br/>
-  
-  <img src="https://streak-stats.demolab.com/?user=PAWANBHOWATE04&theme=dracula" alt="streak stats" />
 </div>
 
 ---
